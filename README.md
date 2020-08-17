@@ -10,7 +10,7 @@ Docker Desktop
 Here is for python 3.7. But the same is for python 3.8.
 
 ```
-git clone
+git clone git@github.com:kazasiki/pandas-lambda-layer.git
 cd panda-lambda-layer
 cd 3.7
 make build
