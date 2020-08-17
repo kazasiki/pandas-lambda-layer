@@ -17,5 +17,5 @@ make build
 make zip
 ```
 
-This will generate a layer.zip, which is contains pandas.
+This will generate a layer.zip, which is contains pandas.  
 You can upload it to AWS any way you like.
